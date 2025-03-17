@@ -48,8 +48,7 @@ L'application est structurée en plusieurs sections :
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/votreUsername/analyse-churn-client.git
-cd analyse-churn-client
+git clone [https://github.com/votreUsername/analyse-churn-client.git](https://github.com/aichabibi/projetML)
 ```
 
 2. Installez les dépendances :
